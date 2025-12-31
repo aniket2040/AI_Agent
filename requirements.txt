@@ -2,4 +2,5 @@ streamlit==1.40.0
 python-dotenv==1.0.1 
 pydantic-ai-slim==1.39.0
 
+tavily-python==0.3.0
 
