@@ -2,6 +2,8 @@
 
 A powerful AI-powered search agent built with Streamlit and Pydantic AI, utilizing the Tavily search API to provide intelligent, context-aware search results.
 
+# Deployed Link https://discoverai.streamlit.app
+
 ## Features
 
 - **Intelligent Search**: Leverages advanced AI models to perform contextual searches using the Tavily search engine.
@@ -157,3 +159,4 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 ## Version History
 
 - v1.0.0: Initial release with basic AI search functionality
+
