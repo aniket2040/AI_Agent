@@ -2,6 +2,7 @@ streamlit==1.40.0
 python-dotenv==1.0.1 
 pydantic-ai-slim==1.39.0
 pydantic-ai-slim[tavily]
+pydantic-ai-slim[groq]
 
 
 
